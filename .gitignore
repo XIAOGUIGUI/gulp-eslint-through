@@ -1,0 +1,4 @@
+coverage
+*.sublime-*
+node_modules
+package-lock.json
